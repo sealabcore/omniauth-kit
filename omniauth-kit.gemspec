@@ -19,4 +19,5 @@ Gem::Specification.new do |gem|
   gem.add_dependency 'multi_json', '~> 1.10'
   gem.add_dependency 'oauth2',     '~> 1.0'
   gem.add_dependency 'omniauth',   '~> 1.2'
+  gem.add_dependency 'omniauth-oauth2',   '~> 1.4'
 end
